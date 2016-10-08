@@ -1,0 +1,24 @@
+{
+  "name": "workooz.github.io",
+  "version": "0.0.1",
+  "description": "Workooz blog",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workooz/workooz.github.io.git"
+  },
+  "keywords": [
+    "workooz",
+    "angular2",
+    "blog"
+  ],
+  "author": "Cedric Badmington <cedric.badmington@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/workooz/workooz.github.io/issues"
+  },
+  "homepage": "https://github.com/workooz/workooz.github.io#readme"
+}
